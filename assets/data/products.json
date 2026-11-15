@@ -1,0 +1,45 @@
+
+[
+  {
+    "id": 1,
+    "name": "Kablosuz Kulaklık",
+    "price": 1299,
+    "description": "Yüksek ses kalitesi ve konforlu tasarıma sahip kablosuz kulaklık.",
+    "icon": "headphones"
+  },
+  {
+    "id": 2,
+    "name": "Akıllı Saat",
+    "price": 2499,
+    "description": "Günlük aktivitelerinizi takip edebileceğiniz modern akıllı saat.",
+    "icon": "watch"
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "price": 18999,
+    "description": "İş ve eğitim için uygun, yüksek performanslı dizüstü bilgisayar.",
+    "icon": "laptop"
+  },
+  {
+    "id": 4,
+    "name": "Telefon",
+    "price": 15999,
+    "description": "Güçlü kamera ve hızlı işlemciye sahip akıllı telefon.",
+    "icon": "smartphone"
+  },
+  {
+    "id": 5,
+    "name": "Kamera",
+    "price": 8999,
+    "description": "Yüksek çözünürlüklü fotoğraf ve video çekimi için dijital kamera.",
+    "icon": "camera"
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Hoparlör",
+    "price": 1799,
+    "description": "Taşınabilir ve güçlü ses çıkışına sahip Bluetooth hoparlör.",
+    "icon": "speaker"
+  }
+]
